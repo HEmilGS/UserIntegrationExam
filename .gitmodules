@@ -1,0 +1,6 @@
+[submodule "ingeration"]
+	path = ingeration
+	url = https://github.com/HEmilGS/userIntegration.git
+[submodule "server_start"]
+	path = server_start
+	url = https://github.com/HEmilGS/server_start.git
